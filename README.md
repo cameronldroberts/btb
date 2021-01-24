@@ -10,7 +10,7 @@ Mileage may very running this and lots of room for improvment.
 
 ### Running the code 
 
-You will need to sign up for a Twilio account which you can do [here](https://www.twilio.com/). Once you have signed up you will be able to grab the `ACCOUNT_SID` , `AUTH_TOKEN` and `FROM_NUMBER`
+You will need to sign up for a Twilio account which you can do [here](www.twilio.com/referral/lT6jAP). Once you have signed up you will be able to grab the `ACCOUNT_SID` , `AUTH_TOKEN` and `FROM_NUMBER`
 
 Export the following values 
 ```bash
